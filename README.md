@@ -1,4 +1,4 @@
-# TextSelectTrigger
+# 拖拽鼠标获取文本选区文本的实现
 
 `TextSelectTrigger` 是一个用于处理文本选择事件的 JavaScript 类，可以用来监听 DOM 元素的文本选择并触发回调函数。它通过阻止跨文档选择并过滤不可选择的内容，为用户提供了更精确的文本选择控制。
 
