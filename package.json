@@ -1,6 +1,8 @@
 {
   "name": "text-select-trigger",
+  "description": "一个用于处理文本选择事件的 JavaScript 类",
   "version": "0.0.1",
+  "author": "zcorw",
   "main": "index.js",
   "license": "MIT"
 }
